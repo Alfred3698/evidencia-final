@@ -64,11 +64,11 @@ public class Main {
 
         switch (opcion) {
             case 1:
-                System.out.println("Alta de medico");
+                System.out.println("Alta de medico.");
                 altaMedico();
                 break;
             case 4:
-                System.out.println("Lista de medicos");
+                System.out.println("Lista de medicos.");
                 listarMedico();
                 break;
 
